@@ -6,15 +6,13 @@ console.log(data);
 // 01
 // Get a random player from the .json file
 module.exports.randomPlayer = (req, res) => {
-  const randomPlayers = Math.floor(Math.random) * player.length;
-  console.log(player);
-  console.log(randomPlayers);
-  res.status(200).send({
-    status: true,
-    message: "Random Player Found!",
-    data: player[randomPlayers],
-  });
-};
+    const randomUser = Math.floor(Math.random() * player.length);
+    res.status(200).send({
+      status: true,
+      message: "Random User Found !!!",
+      data: player[randomUser],
+    });
+  };
 
 // 02
 // Get all the player from the .json file
