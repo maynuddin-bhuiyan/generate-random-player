@@ -6,7 +6,7 @@ const {
   updatePlayerInfo,
   PlayerRemove,
   updateMultiplePlayerInfo,
-} = require("../../controllers/pleyer.controller");
+} = require("../controllers/pleyer.controller");
 const router = express.Router();
 
 // 01

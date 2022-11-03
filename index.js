@@ -1,7 +1,7 @@
 // basic setup
 const express = require("express");
 const cors = require("cors");
-const playersRouter = require("./routes/v1/player.route");
+const playersRouter = require("./routes/user.route");
 const app = express();
 
 // Port Set
@@ -15,7 +15,7 @@ app.use(express.json());
 // Middleware Function Work
 
 // Setup Router
-app.use("/api/v1/player", playersRouter);
+app.use("/user", playersRouter);
 
 // Api Function Work
 app.get("/", (req, res) => {
