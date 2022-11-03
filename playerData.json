@@ -1,0 +1,42 @@
+[
+  {
+    "_id": 0,
+    "gender": "male",
+    "name": "Lionel Messi",
+    "contact": "01989134098",
+    "address": "Rosario, Argentina",
+    "photoUrl": "https://i.insider.com/5f454a4242f43f001ddfee74?width=700"
+  },
+  {
+    "_id": 1,
+    "gender": "male",
+    "name": "Maynuddin",
+    "contact": "01989134098",
+    "address": "bangladesh",
+    "photoUrl": "https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-1/313405474_1141066900176615_6017143643435216461_n.jpg?stp=dst-jpg_p240x240&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeF0mv91S1KLOQh9OzplkvrDgyioxMJz6VyDKKjEwnPpXKTCtYV8iiYA6o1XHmHYhBkYNa7gE6zFh3BNkqUTycZG&_nc_ohc=DSvRVdtfBqAAX9z6OHM&_nc_ht=scontent.fdac116-1.fna&oh=00_AfDLWFv7lxWXz7MGN2w6W6_TbOHgDgKNPsxLmOzbcQ5Ecw&oe=63684028"
+  },
+  {
+    "_id": 2,
+    "gender": "Male",
+    "name": "Ángel Di María",
+    "contact": "4567891230",
+    "address": " Rosario, Argentina",
+    "photoUrl": "https://www2.pictures.zimbio.com/gi/Argentina+v+Bosnia+Herzegovina+Group+F+2014+IYgseRNhylNx.jpg"
+  },
+  {
+    "_id": 3,
+    "gender": "Female",
+    "name": "Sanjida Akhter",
+    "contact": "0147852363",
+    "address": "Bangladeshi football player",
+    "photoUrl": "https://www.bff.com.bd/uploads/player/national-women/Sanjida(MF).jpg"
+  },
+  {
+    "_id": 4,
+    "gender": "Female",
+    "name": "Monika Chakma",
+    "contact": "0147852369",
+    "address": "bangladesh",
+    "photoUrl": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/27/monika_1.jpg?itok=40hLkKIK&timestamp=1585262112"
+  }
+]
